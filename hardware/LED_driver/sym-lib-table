@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ESP-32_E")(type "Legacy")(uri "C:/Users/PS/Downloads/esp32-wrover-kicad-master/esp32-wrover-kicad-master/esp32-wrover.lib")(options "")(descr ""))
+)
